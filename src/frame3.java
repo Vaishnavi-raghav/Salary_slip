@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 public class frame3 extends javax.swing.JFrame {
 
     /**
-     * Creates new form frame3
+     * Creates new form frame3 in salary project
      */
     Connection con;
     PreparedStatement stmt;
